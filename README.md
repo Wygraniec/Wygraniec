@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wygraniec
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning advanced C++ techniques
+- 🌱 I’m currently learning advanced C++
 
 <!---
 Wygraniec/Wygraniec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
